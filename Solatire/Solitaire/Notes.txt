@@ -1,0 +1,24 @@
+
+52 cards 
+
+4 stacks of cards for each suit
+
+start of game 28 cards arranged into seven stacks 
+
+1st stack is 1 cards 2nd stack 2 cards so on and so forth top card of each stack is shown 
+the remaining 24 cards are placed in a stack that flips 1 to 3 cards from the deck and place them in alrenating colour
+sequential order.
+
+7 stacks server as holders for the alternating colour sequential rows. The 4 suits start with an Ace and are added to 
+as the game progresses 
+
+4 end game stacks for each suit empty at start and randomly allocate to the other stacks
+
+1 stack for the 24
+
+7 stacks for the 28
+
+ordered arrays 
+
+change cursor of bitmap selected whne holding and then change back to normal when you drop
+areas when clicked change variables 

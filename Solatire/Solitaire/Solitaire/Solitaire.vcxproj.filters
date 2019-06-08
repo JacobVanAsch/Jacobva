@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BackBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Canvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitMaps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BackBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitMaps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Solitaire.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Cards\c01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\c13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\d13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\h13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Cards\s13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
